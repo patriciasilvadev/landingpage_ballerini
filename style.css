@@ -114,3 +114,20 @@ body {
 	display: block;
 	margin: 0px auto; 
 }
+
+/* Adicionando media queries para layout responsivo - quando a tela tiver 500 pixels de largura ou menos, empilhe os elementos uns sobre os outros, em coluna */
+@media screen and (max-width: 500px) {
+  .cabecalho, .cabecalho-menu, .conteudo-principal {
+    display: flex;
+    flex-direction: column;
+	}
+	.cabecalho-imagem {
+	margin-bottom: 24px;
+	}
+	.conteudo {
+		padding: 32px;
+	}	
+	.conteudo-principal-imagem{
+		height: 400px;
+	}
+}
