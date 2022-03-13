@@ -38,7 +38,7 @@ Já em CSS, foi adiquirido conhecimentos sobre como importar fontes no Google Fo
 
 # 🚀 Desenvolvimento
 Caso você queria desenvolver também esse projeto, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+[Git](https://git-scm.com). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 Video tutorial: [LANDING PAGE COM HTML e CSS!](https://www.youtube.com/watch?v=llF6vD-RljE)
